@@ -1,4 +1,4 @@
 # GitCursoBasico3
 
 
-CURSO BÀSICO 
+CURSO BÀSICO de GIT e GIT HUB
